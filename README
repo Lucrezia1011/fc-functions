@@ -1,6 +1,6 @@
-Functional connectivity functions for MEG and EEG data. Use at your own risk! 
+Functional connectivity functions for MEG and EEG data. Function descriptions are a work in progress, use at your own risk! 
 
-Initially developed for my phd work at the University of Nottingham. See relevant publications:  
+See relevant publications:  
 "Brain oscillations, connectomes and neurophysiology" https://eprints.nottingham.ac.uk/56801/
 "How Sensitive Are Conventional MEG Functional Connectivity Metrics With Sliding Windows to Detect Genuine Fluctuations in Dynamic Functional Connectivity?" https://doi.org/10.3389/fnins.2019.00797
 "Optimising experimental design for MEG resting state functional connectivity measurement" https://doi.org/10.1016/j.neuroimage.2016.11.064 
