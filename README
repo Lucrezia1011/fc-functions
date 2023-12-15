@@ -1,0 +1,6 @@
+Functional connectivity functions in matlab for MEG and EEG data. 
+
+Initially developed for: 
+"Brain oscillations, connectomes and neurophysiology" https://eprints.nottingham.ac.uk/56801/
+"How Sensitive Are Conventional MEG Functional Connectivity Metrics With Sliding Windows to Detect Genuine Fluctuations in Dynamic Functional Connectivity?" https://doi.org/10.3389/fnins.2019.00797
+"Optimising experimental design for MEG resting state functional connectivity measurement" https://doi.org/10.1016/j.neuroimage.2016.11.064 
